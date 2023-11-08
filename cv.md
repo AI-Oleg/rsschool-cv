@@ -10,10 +10,10 @@ I am a communicative and determined developer with some experience in web develo
 ***
 ## Skills
 - Programming languages: 
-   1.  JavaScript
-   1. Python
-   1. C
-   1. Kotlin
+   1)  JavaScript
+   2) Python
+   3) C
+   4) Kotlin
 - Jinja template
 - Platforms: Node.js, Flask
 - Methodologies: Agile
